@@ -1,0 +1,16 @@
+C:\Users\Nevada\source\repos\ConvertingApp\ConvertingApp\bin\Debug\net7.0-windows\ConvertingApp.exe
+C:\Users\Nevada\source\repos\ConvertingApp\ConvertingApp\bin\Debug\net7.0-windows\ConvertingApp.deps.json
+C:\Users\Nevada\source\repos\ConvertingApp\ConvertingApp\bin\Debug\net7.0-windows\ConvertingApp.runtimeconfig.json
+C:\Users\Nevada\source\repos\ConvertingApp\ConvertingApp\bin\Debug\net7.0-windows\ConvertingApp.dll
+C:\Users\Nevada\source\repos\ConvertingApp\ConvertingApp\bin\Debug\net7.0-windows\ConvertingApp.pdb
+C:\Users\Nevada\source\repos\ConvertingApp\ConvertingApp\obj\Debug\net7.0-windows\ConvertingApp.Form1.resources
+C:\Users\Nevada\source\repos\ConvertingApp\ConvertingApp\obj\Debug\net7.0-windows\ConvertingApp.csproj.GenerateResource.cache
+C:\Users\Nevada\source\repos\ConvertingApp\ConvertingApp\obj\Debug\net7.0-windows\ConvertingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nevada\source\repos\ConvertingApp\ConvertingApp\obj\Debug\net7.0-windows\ConvertingApp.AssemblyInfoInputs.cache
+C:\Users\Nevada\source\repos\ConvertingApp\ConvertingApp\obj\Debug\net7.0-windows\ConvertingApp.AssemblyInfo.cs
+C:\Users\Nevada\source\repos\ConvertingApp\ConvertingApp\obj\Debug\net7.0-windows\ConvertingApp.csproj.CoreCompileInputs.cache
+C:\Users\Nevada\source\repos\ConvertingApp\ConvertingApp\obj\Debug\net7.0-windows\ConvertingApp.dll
+C:\Users\Nevada\source\repos\ConvertingApp\ConvertingApp\obj\Debug\net7.0-windows\refint\ConvertingApp.dll
+C:\Users\Nevada\source\repos\ConvertingApp\ConvertingApp\obj\Debug\net7.0-windows\ConvertingApp.pdb
+C:\Users\Nevada\source\repos\ConvertingApp\ConvertingApp\obj\Debug\net7.0-windows\ConvertingApp.genruntimeconfig.cache
+C:\Users\Nevada\source\repos\ConvertingApp\ConvertingApp\obj\Debug\net7.0-windows\ref\ConvertingApp.dll
